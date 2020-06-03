@@ -1,0 +1,10 @@
+packages
+pip install r- packages.txt
+
+audioImageConverter
+audioImageConverter.py --src-dir folderName1 --dest-dir folderName2 --n 4
+
+Classify
+audioClassify.py --model-name audioModel --captcha-dir folderName --output output.txt --symbols symbols.txt 
+
+
