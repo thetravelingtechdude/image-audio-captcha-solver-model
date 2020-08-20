@@ -13,11 +13,4 @@ Steps taken in preprocessing to improve the model accuracy:
 		a) Auto-contrasting (cutoff = 10)
 		
 
-Audio Captcha Model Training Method:
 
-Number of Audio files	Epoch	Accuracy
-      20000		          2	  12%
-      20000		          2	  40%
-      40000		          2	  50.10%
-      40000		          4	  66%
-      40000		          6	  71.187%
